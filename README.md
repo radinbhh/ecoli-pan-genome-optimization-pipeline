@@ -1,5 +1,3 @@
-### Polished README (Full Version)
-
 
 # ecoli-pan-genome-optimization-pipeline
 
@@ -221,5 +219,3 @@ A bar chart showing the functional categories of the 3,613 conserved orthologs. 
 - GitHub: [https://github.com/radinbhh](https://github.com/radinbhh)
 - LinkedIn: [www.linkedin.com/in/radin-baharsefat-878639231](www.linkedin.com/in/radin-baharsefat-878639231)
 ```
-
----
