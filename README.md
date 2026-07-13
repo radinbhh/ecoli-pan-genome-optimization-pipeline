@@ -1,16 +1,6 @@
-Here is your **polished README**, updated to reflect the final state of your project. I have:
-
-- Removed the outdated "Conservation Logo" and replaced it with the **Functional Breakdown bar chart**.
-- Added a **"A Note on Data Quality"** section to document the *Burkholderia/Shewanella/Streptococcus* incident.
-- Adjusted the "Feature Comparison" table to reflect what you actually implemented (rolling hash instead of LSH, functional categorisation instead of MSA).
-- Added a **"Key Biological Findings"** summary to the Overview.
-- Updated the "Results Preview" section with your actual final figures.
-
----
-
 ### Polished README (Full Version)
 
-```markdown
+
 # ecoli-pan-genome-optimization-pipeline
 
 A comparative genomics pipeline using MinHash, rolling hash optimisation, bipartite matching, and functional categorisation to analyse 8 *E. coli* strains — from raw genomes to phylogenetic trees, synteny dot-plots, and core genome functional breakdowns.
