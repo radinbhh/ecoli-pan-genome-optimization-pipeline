@@ -2,9 +2,9 @@
 # Name	Accession	Source
 K12_MG1655	GCF_000005845.2	Lab strain (K-12 substr. MG1655)
 O157_H7_Sakai	GCF_000008865.2	Enterohemorrhagic pathogen
-O104_H4	GCF_000017325.1	Outbreak strain (Germany 2011)
-O111_H	GCF_000026585.1	Enteropathogenic pathogen
-O26_H11	GCF_000026605.1	Enterohemorrhagic pathogen
+O104_H4	GCF_000320095.1	Outbreak strain (Germany 2011)
+O111_H	GCF_000010765.1	Enteropathogenic pathogen
+O26_H11	GCF_000091005.1	Enterohemorrhagic pathogen
 O103_H2	GCF_000010745.1	Enterohemorrhagic pathogen (str. 12009)
 O145_H28	GCF_000520035.1	Enterohemorrhagic pathogen (str. RM13514)
-HS_commensal	GCF_000012945.1	Commensal isolate from healthy human
+HS_commensal	GCF_000017765.1	Commensal isolate from healthy human
